@@ -1,0 +1,3 @@
+/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/CMakeFiles/SDLTest.dir

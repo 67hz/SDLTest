@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SDLTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\SDL2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SDLTest">
+				<Option output="/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/SDLTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/SDL2"/>
+					<Add directory="/Users/ajhino/CLionProjects/udemy/SDLTest/SDLTest"/>
+					<Add directory="/Users/ajhino/CLionProjects/udemy/SDLTest/main.cpp"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 SDLTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SDLTest/fast">
+				<Option output="/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/SDLTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/SDL2"/>
+					<Add directory="/Users/ajhino/CLionProjects/udemy/SDLTest/SDLTest"/>
+					<Add directory="/Users/ajhino/CLionProjects/udemy/SDLTest/main.cpp"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 SDLTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ajhino/CLionProjects/udemy/SDLTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ajhino/CLionProjects/udemy/SDLTest/main.cpp">
+			<Option target="SDLTest"/>
+		</Unit>
+		<Unit filename="/Users/ajhino/CLionProjects/udemy/SDLTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ajhino/CLionProjects/udemy/SDLTest/../../../../../usr/local/lib/cmake/SDL2/sdl2-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\SDL2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
